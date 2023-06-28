@@ -1,0 +1,157 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+
+body{
+widht:100%;
+backgroud-repeat:no-repeat;
+background-size:cover;
+background-image:url("Car.jpg");
+
+}
+
+h3{
+	font-size:45px;
+	margin-top: 10px;
+	text-align: center;
+	color: #993300;
+}
+
+
+.nav{
+	width:100%;
+            height:47px;
+position:relative;
+}
+
+.nav  a{
+	float:right;
+            text-decoration:none;
+           padding:10px  20px;
+           font-size:17px;
+display:inline-block;
+border-radius:8px;
+           
+}
+
+ .nav a:hover{
+	background-color: black;
+color:whitesmoke;
+padding:10px 20px;
+border-radius:8px;
+}
+
+h2{
+	font-size: 25px;
+	margin-top: 10px;
+	text-align: center;
+	color: #050300;
+	}
+
+
+
+
+
+
+h6{
+font-size: 1.6rem;
+	font-weight: bold;
+	font-family: poppins;
+	text-align: center;
+	color: whitesmoke;
+}
+
+
+
+.rcorners4{
+	font-size: 18px;
+	padding: 20px;
+	border-radius: 15px;
+	height: 150px;
+	width: 200px;
+	background-color: black;
+	color: white;
+}
+.rcorners4{
+	font-size: 18px;
+	padding: 20px;
+	border-radius: 15px;
+	height: 150px;
+	width: 200px;
+	background-color: black;
+	color: white;
+}
+.rcorners4{
+	font-size: 18px;
+	padding: 20px;
+	border-radius: 15px;
+	height: 150px;
+	width: 200px;
+	background-color: black;
+	color: white;
+}
+.rcorners4{
+	font-size: 18px;
+	padding: 20px;
+	border-radius: 15px;
+	height: 150px;
+	width: 200px;
+	background-color: black;
+	color: white;
+}
+
+input[type="text"]{
+	color: salmon;
+	font-size: 18px;
+	text-align: center;
+	outline: none;
+}
+
+input[type="text"]{
+	color: salmon;
+	font-size: 18px;
+	text-align: center;
+	outline: none;
+}input[type="text"]{
+	color: salmon;
+	font-size: 18px;
+	text-align: center;
+	outline: none;
+
+}
+input[type="text"]{
+	color: salmon;
+	font-size: 18px;
+	text-align: center;
+	outline: none;
+}
+
+input[type="submit"]:hover{
+	background-color: maroon;
+	
+}
+
+input[type="submit"]{
+	width: 30%;
+	background-color:black;
+	color: white;
+	padding: 10px 20px;
+	margin: 8px 0;
+	text-align: center;
+	border-radius: 14px;
+	}
+
+P{
+	color: white;
+	font-size: 18px;
+	text-align: center;
+}
+
+footer{
+	font-size: 18px;
+	padding: 12px;
+	font-weight: bold;
+font-family:roboto,sans-seriff;
+	background-color:black;
+}
